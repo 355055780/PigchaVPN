@@ -6,7 +6,13 @@ PigChaVPN是一款用于多平台系统的科学上网，翻墙，上网加速�
 - ubuntu [下载客户端](http://co2fun.com:6789/PigChaVPN/ubuntu/PigChaClient.zip)
 - ios 开发中
 - android 开发中
-## 软件介绍
+
+## 注意事项
+- 请关闭其它同类软件
+- 关闭浏览器相关代理插件
+- 请关闭杀毒相关软件，承诺本软件无任何病毒
+
+## 使用介绍
 ### 第一步：注册登录
 用户第一次仅需输入邮箱和密码，点击注册|登录按钮即可
 
@@ -26,7 +32,3 @@ PigChaVPN是一款用于多平台系统的科学上网，翻墙，上网加速�
 ![Image text](https://github.com/pigpigchacha/PigChaVPN/blob/master/misc/pic1.png)
 
 ![Image text](https://github.com/pigpigchacha/PigChaVPN/blob/master/misc/pic0.png)
-
-## 注意事项
-- 请关闭其它同类软件
-- 关闭浏览器相关代理插件
