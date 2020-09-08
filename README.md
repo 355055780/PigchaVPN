@@ -4,9 +4,9 @@
 ## 简介
 PigChaVPN是一款用于多平台系统的科学上网，翻墙，上网加速，VPN工具，上网代理，浏览器代理，Git代理，控制台代理的客户端。
 ## 平台支持
-- windows [下载客户端](http://pigcha.com:6789/PigChaVPN/windows/PigChaClient.exe)
-- mac [下载客户端](http://pigcha.com:6789/PigChaVPN/mac/PigChaClient.zip)
-- ubuntu [下载客户端](http://pigcha.com:6789/PigChaVPN/ubuntu/PigChaClient.zip)
+- windows
+- mac
+- ubuntu
 - ios 开发中
 - android 开发中
 
