@@ -1,7 +1,7 @@
 ## [点我到官网](http://pigcha.com)
 
 ## 简介
-PigchaVPN是一款用于多平台系统的科学上网，翻墙，上网加速，VPN工具，上网代理，浏览器代理，Git代理，控制台代理的客户端。如果本项目对您有用，请不要吝啬你的star~  
+PigchaVPN是一款用于多平台系统的科学上网，上网加速，VPN工具，上网代理，浏览器代理，Git代理，控制台代理的客户端。如果本项目对您有用，请不要吝啬你的star~  
 [youtube视频地址](https://youtu.be/fjTCqtGDW0w)
 ## 平台支持
 - windows
