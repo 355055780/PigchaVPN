@@ -1,4 +1,4 @@
-## [点我到官网](http://pigcha.com)
+## [点我到官网](https://pigpigchacha.github.io/officialsite)
 
 ## 简介
 PigchaVPN是一款用于多平台系统的科学上网，上网加速，VPN工具，上网代理，浏览器代理，Git代理，控制台代理的客户端。如果本项目对您有用，请不要吝啬你的star~  
