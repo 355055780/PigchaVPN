@@ -6,8 +6,8 @@ PigchaVPN是一款用于多平台系统的科学上网，上网加速，VPN工�
 ## 平台支持
 - windows
 - mac
-- ubuntu
-- ios 开发中
+- linux(支持gui和非gui)
+- ios
 - android
 
 ## 注意事项
